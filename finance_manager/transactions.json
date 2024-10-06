@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-11-03",
+        "description": "Groceries",
+        "amount": -200.0,
+        "category": "Expense"
+    },
+    {
+        "date": "2024-02-12",
+        "description": "shoping",
+        "amount": -3000.0,
+        "category": "Expense"
+    },
+    {
+        "date": "2024-06-11",
+        "description": "Furniture",
+        "amount": -2000.0,
+        "category": "Expense"
+    },
+    {
+        "date": "2024-07-01",
+        "description": "Game",
+        "amount": -1500.0,
+        "category": "Expense"
+    },
+    {
+        "date": "2003-12-12",
+        "description": "salary",
+        "amount": 10000.0,
+        "category": "income"
+    }
+]
